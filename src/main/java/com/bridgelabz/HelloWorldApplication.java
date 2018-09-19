@@ -14,7 +14,7 @@ public class HelloWorldApplication {
 	}
 	@GetMapping("/")
 	public String getMsg() {
-		return "MY SELF BIJAYA LAXMI";
+		return "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!MY SELF BIJAYA LAXMI";
 		
 	}
 }
